@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Analyseur Air Arcangel</string>
+    <string name="title_activity_main">MainActivity</string>*
+    <string name="importt">import</string>
+    <string name="gallery">gallery</string>
+    <string name="slideshow">slideshow</string>
+    <string name="tools">tools</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "574340833933",
+    "firebase_url": "https://sage-archway-210516.firebaseio.com",
+    "project_id": "sage-archway-210516",
+    "storage_bucket": "sage-archway-210516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574340833933:android:72030a5aba09edff",
+        "android_client_info": {
+          "package_name": "com.project.arcangel.analyseurairarcangel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574340833933-hngv1lmbaqekj78rckasd3jg6poslgk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA4eH5aN0RAIySOoHHQtJkxCz1Dfuxi80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
